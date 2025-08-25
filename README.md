@@ -146,6 +146,8 @@ Retrieve a specific student by ID.
 
 ## Screenshots
 
+<img width="960" height="539" alt="Screenshot_5" src="https://github.com/user-attachments/assets/42701e90-a024-4b04-bda2-44769c268bdc" />
+
 The application features:
 - A beautiful gradient background with subtle grid patterns
 - Glassmorphism form container with blur effects
