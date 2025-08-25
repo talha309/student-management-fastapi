@@ -146,7 +146,7 @@ Retrieve a specific student by ID.
 
 ## Screenshots
 
-<img width="960" height="539" alt="Screenshot_5" src="https://github.com/user-attachments/assets/42701e90-a024-4b04-bda2-44769c268bdc" />
+<img width="960" height="539" alt="Screenshot_5" src="https://github.com/user-attachments/assets/42701e90-a024-4b04-bda2-44769c268bdc" /><img width="507" height="510" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ad7248e6-f444-42fd-b191-ebe68d88815b" />
 
 The application features:
 - A beautiful gradient background with subtle grid patterns
